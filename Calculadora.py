@@ -7,5 +7,6 @@ n2 = 2
 multiplicacion = n1 * n2
 print(f"El resultado de la multiplicacion {n1} por {n2} es: {multiplicacion}")
 
+# Divison
 division = n1 / n2
 print(f"El resultado de la division {n1} entre {n2} es: {division}") 
